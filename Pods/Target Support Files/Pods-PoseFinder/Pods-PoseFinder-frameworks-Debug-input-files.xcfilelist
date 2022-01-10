@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-PoseFinder/Pods-PoseFinder-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/Socket.IO-Client-Swift/SocketIO.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/VRMKit/VRMKit.framework
+${BUILT_PRODUCTS_DIR}/VRMSceneKit/VRMSceneKit.framework

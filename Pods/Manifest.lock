@@ -1,0 +1,37 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.6)
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+  - SwiftyJSON (4.3.0)
+  - VRMKit (0.4.2)
+  - VRMSceneKit (0.4.2):
+    - VRMKit (~> 0.4.2)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - Socket.IO-Client-Swift
+  - SwiftyJSON (~> 4.0)
+  - VRMKit
+  - VRMSceneKit
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SwiftyJSON
+    - VRMKit
+    - VRMSceneKit
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  VRMKit: 32fb2067df1162c4f7c204c01504fd20bd57f475
+  VRMSceneKit: 7e55f63e744656ee57611ec407166ac539c0ac8f
+
+PODFILE CHECKSUM: 8c84652a354a985f70db2fe1605e11eb71cc1bc2
+
+COCOAPODS: 1.10.0

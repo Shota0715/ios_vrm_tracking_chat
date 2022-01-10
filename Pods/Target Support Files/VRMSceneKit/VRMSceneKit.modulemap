@@ -1,0 +1,6 @@
+framework module VRMSceneKit {
+  umbrella header "VRMSceneKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
